@@ -417,6 +417,17 @@ p.italic {
     font-style: italic;
 }
 
+/* Blockquote 
+--------------------------------------------------------- */
+blockquote {
+    border-left: 4px solid #7453EF;
+    font-style: italic;
+    font-size: 20px;
+    line-height: 1.6;
+    margin-left: 0;
+    padding: 8px 0 8px 36px;
+}
+
 /* Links 
 --------------------------------------------------------- */
 a {
